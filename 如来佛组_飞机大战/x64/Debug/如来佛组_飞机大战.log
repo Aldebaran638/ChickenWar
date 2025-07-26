@@ -1,0 +1,91 @@
+﻿  main.cpp
+  more.cpp
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(92,13): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(96,12): warning C4244: “return”: 从“const double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(128,12): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(131,12): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(132,20): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(137,12): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(138,12): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(141,12): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(142,20): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(145,12): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(148,12): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(149,20): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(154,12): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(155,12): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(158,12): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(159,20): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(163,12): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(166,12): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(167,20): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(172,12): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(173,12): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(176,12): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(177,20): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(181,12): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(184,20): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(185,12): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(190,12): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(191,12): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(194,12): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(195,20): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(317,16): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(322,16): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(325,24): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(336,16): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(339,24): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(344,16): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(349,16): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(352,24): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(362,16): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(365,24): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(370,16): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(375,16): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(378,24): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(388,24): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(391,16): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(396,16): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(401,24): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(404,16): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(414,16): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\more.cpp(417,24): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  service.cpp
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\service.cpp(20,14): warning C4091: “extern ”: 没有声明变量时忽略“Plane”的左侧
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\service.cpp(21,14): warning C4091: “extern ”: 没有声明变量时忽略“Bullet”的左侧
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\service.cpp(35,14): warning C4091: “extern ”: 没有声明变量时忽略“Listelement”的左侧
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\service.cpp(409,138): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\service.cpp(424,140): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\service.cpp(424,124): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\service.cpp(510,118): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  view.cpp
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(21,14): warning C4091: “extern ”: 没有声明变量时忽略“Plane”的左侧
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(22,14): warning C4091: “extern ”: 没有声明变量时忽略“Bullet”的左侧
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(36,14): warning C4091: “extern ”: 没有声明变量时忽略“Listelement”的左侧
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(63,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(64,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(65,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(66,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(67,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(68,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(69,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(70,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(71,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(72,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(73,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(74,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(490,203): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(510,211): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(558,203): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(624,57): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(624,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(625,111): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(626,111): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(766,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(1517,14): warning C4101: “Mouse”: 未引用的局部变量
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(1673,248): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(1693,256): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(2198,239): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\view.cpp(2217,247): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  如来佛组_飞机大战.vcxproj -> D:\source\就业\01实习相关资料\演示会议\演示项目\如来佛组_飞机大战2.2\x64\Debug\如来佛组_飞机大战.exe
